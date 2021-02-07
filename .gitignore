@@ -1,1 +1,4 @@
-*.o
+tabbed
+tabbed.o
+xembed
+xembed.o
