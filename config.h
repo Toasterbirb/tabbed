@@ -4,7 +4,7 @@
 static const char font[]        = "mononoki:size=15";
 static const char* normbgcolor  = "#222222";
 static const char* normfgcolor  = "#cccccc";
-static const char* selbgcolor   = "#ffffff";
+static const char* selbgcolor   = "#dfe0de";
 static const char* selfgcolor   = "#000000";
 static const char* urgbgcolor   = "#111111";
 static const char* urgfgcolor   = "#cc0000";
