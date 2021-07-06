@@ -2,3 +2,4 @@ tabbed
 tabbed.o
 xembed
 xembed.o
+config.h
